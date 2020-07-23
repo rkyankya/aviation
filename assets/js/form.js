@@ -1,3 +1,4 @@
 const sub = () => {
-    alert('Thanks for getting in touch with us')
+    alert('Thanks for getting in touch with us');
+    location.reload();
 };
